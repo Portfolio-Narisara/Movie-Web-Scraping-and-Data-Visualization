@@ -73,6 +73,8 @@ Web API API ที่เลือกคือ https://www.themoviedb.org/ เป
 - การตรวจสอบค่า null หรือ missing value ในข้อมูล
 - การตรวจสอบและลบข้อมูลที่เป็นค่า null ที่มีการแทนค่า
 - เปลี่ยนประเภทข้อมูลให้เหมาะสมกับลักษณะข้อมูล
+
+<br>
 <br>
 ---
 ## STAGE 3: Data Visualization
