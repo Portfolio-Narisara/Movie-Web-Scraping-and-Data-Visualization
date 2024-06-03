@@ -1,1 +1,3 @@
-# Movie-Web-Scraping-and-Data-Visualization
+# Solution Details
+# Web Scraping
+# Data Visualization
